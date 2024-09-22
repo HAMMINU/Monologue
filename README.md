@@ -1,6 +1,6 @@
 # Monologue
 
-Monologue - First Submission of Graduate School
+Monologue - First Submission of Graduate School.
 This Python file uses the googletrans module to translate the paper.
 There is no need for an api. 
 Divide the paper into paragraphs (no more than 150 characters: reference, pig, ...) and translate.
